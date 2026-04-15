@@ -19,11 +19,10 @@
 ```
 Kagerou/
 ├── Kousou/         # 陽炎の構想諸々
-│   ├── Hardware/
-│   ├── Software/
-│   ├── Document/
-│   └── 3dModel/    # 3Dプリンタモデル
 └── ProtoZero/      # プロトタイプ(将来追加予定)
+    ├── Hardware/
+    ├── Software/
+    └── 3dModel/    # 3Dプリンタモデル
 ```
 
 ---
